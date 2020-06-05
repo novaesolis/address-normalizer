@@ -1,0 +1,7 @@
+### IDE files ###
+.idea
+.gradle
+types/**
+vsc-extension-quickstart.md
+.vscode/**
+.vscode-test/**
